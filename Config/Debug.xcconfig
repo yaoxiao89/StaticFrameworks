@@ -1,0 +1,9 @@
+//
+//  Debug.xcconfig
+//  StaticFrameworks
+//
+//  Copyright © 2018 Xiao Yao. All rights reserved.
+//  See LICENSE.txt for licensing information
+//
+
+#include "Common.xcconfig"
